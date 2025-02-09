@@ -10,12 +10,24 @@ ________________________________________________________________________________
  ________________________________________________________________________________________________________________________________
 
 #### SKILLS:
+- **Programming Languages:**  Python, C++, Java
+- **Application Security:** DAST, SAST,
+ RASP, Container monitoring
 
 #### SOFTWARE: 
+
+- **Security:** Checkmarx, Forcepoint, Nightfall, PaloAlto, Rapid7, Webinspect
+- **IT:** Service Now
+- **Business:** Microsoft Suite (Excel, PowerPoint, Word, Visio)
+- **MES/SCADA:** Ignition (Inductive Automation)
 
 #### WORK HISTORY:
 
 #### CERTIFICATIONS: 
+###### CertNexus Cyber Secure Coder (CSC)
+ With this certification, I prove that I have the knowledge and understanding to design and code
+ secure applications in accordance to the Department of Defense Directive 8104.
+ [Credential - August 2024](https://www.credential.net/eb3d6ba3-1756-4cdd-91df-f8a9c8ad5541) 
 
 #### EDUCATION: 
 
